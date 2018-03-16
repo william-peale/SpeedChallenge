@@ -1,5 +1,6 @@
-###Speed Challenge
-	This is my solution(?) for the comma speed challenge. Full disclaimer here, I did not get this job as I goofed and set my validation split to 2% instead of 20% which 
+## Speed Challenge
+# This is my solution(?) for the comma speed challenge. 
+	Full disclaimer here, I did not get this job as I goofed and set my validation split to 2% instead of 20% which 
 messed things up. However… The model I used is still kinda cool and I thought it would be worth slapping on my github. I checked out some solutions to this on github, and most 
 people who claim to have succeeded in the challenge use the optical flow method detailed in that one [medium post](https://chatbotslife.com/autonomous-vehicle-speed-estimation-from-dashboard-cam-ca96c24120e4) that everyone seemed to have copied. I have two problems with 
 that method: It still uses partial CV, so you are not making full use of gradient descent and it's really just copying that medium post. Not naming names here, but I have looked 
