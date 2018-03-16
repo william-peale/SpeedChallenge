@@ -1,3 +1,5 @@
+#EVERYTHING is commented and wrote very poorly, because just as I was about to start to polishing the code comma said: "Hey your loss is really high please don't try again"
+
 import numpy as np
 
 import matplotlib
